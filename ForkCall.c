@@ -1,4 +1,4 @@
-#include<stdio.h>              // for printf and scanf
+#include<stdio.h>            // for printf and scanf
 #include<unistd.h>             // for fork() & getpid()
 #include<sys/types.h>          // for fork() & getpid()
 
