@@ -4,7 +4,7 @@ echo "Enter 1st Number: "
 read a 
 
 echo "Enter 2nd Number: "
-read b 
+read b
 
 echo "Which operation do you wanna perform"
 echo "1. Addition      2. Subtraction        3. Multiplication       4. Division        5. Exit Calculator Interface"
